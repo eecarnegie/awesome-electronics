@@ -81,7 +81,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
 - [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
 - [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
-
+- [Saturn PCB Design Toolkit](http://www.saturnpcb.com/pcb_toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
 
 ## CAD Specific
 
@@ -141,6 +141,7 @@ This list is for websites, services, software, tools and more: everything that y
 ### Discussion
 - [EEVBlog forum](https://www.eevblog.com/forum/) - Probably the largest and most active forum to discuss electronic engineering topics.
 - [/r/electronics](https://www.reddit.com/r/electronics/) and [/r/ECE](https://www.reddit.com/r/ECE/) are the two most active sub-reddits for EE topics.
+- [LTspice forum](https://groups.yahoo.com/neo/groups/LTspice/info) - Dedicated to the exchange of information about LTspice
 
 ### Help
  - [/r/askelectronics](https://www.reddit.com/r/AskElectronics/) - Sub-reddit dedicated to help on electronics topics.
